@@ -1,0 +1,8 @@
+Operon	Gene	System Type	Gene type	HMM	Evalue	Predicted methylation	Prediction confidence	REBASE homolog	Homolog identity(%)	Homolog methylation	Homolog motif
+Singleton #1	SHDOJQCQ_CDS_0069	RM_Type_II	MT	Type_II_MTases_FAM_2	5.4e-30	m5C	0.988996200126663				
+Singleton #2	SHDOJQCQ_CDS_0113	RM_Type_II	MT	Type_II_MTases_FAM_4	5e-71	m6A	0.961999489926039				
+Singleton #3	SHDOJQCQ_CDS_0135	RM_Type_I	MT	Type_I_MTases_FAM_3	1.4e-54	m6A	0.999103299856528				
+Singleton #3	SHDOJQCQ_CDS_0136	RM_Type_I	MT	Type_I_MTases_FAM_3	3.4e-139	m6A	0.999103299856528				
+Singleton #3	SHDOJQCQ_CDS_0137	RM_Type_I	SP	Type_I_S_52	1.7e-51						
+Singleton #4	SHDOJQCQ_CDS_0158	RM_Type_II	MT	Type_II_MTases_FAM_27	1.3e-12			M.TerORF3117P	67.16		
+Singleton #4	SHDOJQCQ_CDS_0161	RM_Type_II	MT	Type_II_MTases_FAM_27	6e-33			M.TerORF4236P	55.135		

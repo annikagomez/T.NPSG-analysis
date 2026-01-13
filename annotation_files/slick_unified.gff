@@ -1,0 +1,162 @@
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	466	690	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	1259	2245	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	2441	3850	.	+	.	product= SUMF1/FGE domain;function=auxiliary metabolism, host takeover;closest_match=Cyanobacterium;closest_viral_match=Microcystis phage LMM01
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	3919	4164	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	4154	4399	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	4405	4695	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	4705	4962	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	4968	5387	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	5390	5689	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	5779	8625	.	+	.	product=hypothetical protein;function=conserved protein of unknown function;closest_match=Cyanobacterium;closest_viral_match=uncultured cyanophage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	8740	8913	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	8845	9303	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	9398	9769	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	9811	10626	.	+	.	product=tail fiber protein;function=tail;closest_match=Cyanophage;closest_viral_match=uncultured cyanophage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	10721	11380	.	+	.	product=hypothetical protein;function=conserved protein of unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	11513	12670	.	+	.	product=DndC sulfurtransferase;function=auxiliary metabolism, host takeover;closest_match=Diazotrophic cyanobacterium;closest_viral_match=Microcystis phage Mae-JY29
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	12972	13379	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	13483	13992	.	-	.	product=DNA binding protein;function=transcription regulation;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	14233	14937	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	14903	15127	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	15117	16163	.	-	.	product=portal protein;function=head and packaging;closest_match=Diazotroph phage;closest_viral_match=Cylindrospermopsis raciborskii virus RM-2018a
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	16163	16561	.	-	.	product=L-shaped tail fiber;function=tail;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	16639	17097	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	17121	17687	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	17713	18147	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	18137	18565	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	18604	18981	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	19046	20212	.	-	.	product=proximal tail fiber;function=tail;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	20184	22280	.	-	.	product=proximal tail fiber;function=tail;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	22280	22666	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	22721	23137	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	23134	24516	.	+	.	product=tail protein;function=tail;closest_match=Caudoviricetes;closest_viral_match=Sphaerotilus phage vB_SnaP-R1
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	24513	25124	.	+	.	product=ABC transporter;function=auxiliary metabolism, host takeover;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	25111	26070	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	26073	27179	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	27338	28708	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	29041	29475	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	29522	29896	.	+	.	product=virion structure;function=head and packaging;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	29900	30694	.	-	.	product=ParA-like partition;function=DNA, RNA and nucleotide metabolism;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	30760	30912	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	31006	31899	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	31965	32186	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	32427	33380	.	-	.	product=telomere resolvase;function=integration and excision;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	33371	33520	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	33632	33817	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	34477	35613	.	-	.	product=InsQ/TnpB transposase;function=integration and excision;closest_match=Diazotrophic cyanobacterium;closest_viral_match=Nodularia phage vB_NspS-kac65v162
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	36314	38275	.	+	.	product=replication initiation protein;function=DNA, RNA and nucleotide metabolism;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	38301	38663	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	38620	39342	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	39448	40029	.	+	.	product=HNH endonuclease;function=DNA, RNA and nucleotide metabolism;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	40040	40780	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	40795	41433	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	41532	41837	.	-	.	product=AAA ATPase;function=conserved protein of unknown function;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	41948	42127	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	42117	42311	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	42871	43326	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	43352	44413	.	-	.	product=ParA-like partition;function=DNA, RNA and nucleotide metabolism;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	44490	45002	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	45054	45476	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	45483	46223	.	-	.	product=Gp37;function=Host range determination;closest_match=Trichodesmium;closest_viral_match=unclassified Caudoviricetes
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	46333	46791	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	46836	47504	.	+	.	product=telomere resolvase;function=integration and excision;closest_match=Cyanobacterium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	47605	48066	.	-	.	product=RusA;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	48140	51769	.	+	.	product=RNR;function=DNA, RNA and nucleotide metabolism;closest_match=Diazotroph phage;closest_viral_match=Cylindrospermopsis raciborskii virus RM-2018a
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	52051	52557	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	53111	53557	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	53832	54134	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	54224	54349	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	54336	55283	.	-	.	product=DNA methyltransferase;function=DNA, RNA and nucleotide metabolism;closest_match=Cyanophage;closest_viral_match=Planktothrix phage PaV-LD
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	55361	56770	.	-	.	product=DnaB helicase;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	56802	57173	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	57350	57877	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	57898	58578	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	58933	61149	.	+	.	product=DNApol III beta subunit;function=DNA, RNA and nucleotide metabolism;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	61220	62137	.	-	.	product=tail fiber protein;function=tail;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	62141	62542	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	62509	62910	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	62936	63319	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	63325	63825	.	-	.	product=tRNA methyltransferase;function=DNA, RNA and nucleotide metabolism;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	63896	64636	.	-	.	product=ssDNA binding protein;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	64669	65142	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	65595	66323	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	66332	68194	.	-	.	product=DNApol A;function=DNA, RNA and nucleotide metabolism;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	68347	68601	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	68598	68921	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	68954	69685	.	+	.	product=tail tube protein;function=tail;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	69738	70466	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	70484	70729	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	70732	70980	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	70977	71384	.	+	.	product=hypothetical protein;function=conserved protein of unknown function;closest_match=Cyanophage;closest_viral_match=uncultured cyanophage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	71381	71794	.	+	.	product=baseplate hub;function=tail;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	71866	72267	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	72682	73515	.	-	.	product=transcriptional regulator;function=transcription regulation;closest_match=Trichodesmium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	73892	74773	.	+	.	product=ParA-like partition;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	74816	75238	.	+	.	product=dUTPase;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	75265	75399	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	75459	75902	.	+	.	product=dUTPase;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	76078	76407	.	+	.	product=ParB-like partition;function=DNA, RNA and nucleotide metabolism;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	76561	76884	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	76961	91440	.	+	.	product=tail tape measure;function=tail;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	91544	91996	.	-	.	product=hypothetical protein;function=conserved protein of unknown function;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	92174	92515	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	92712	93734	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	93810	94904	.	-	.	product=endonuclease;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	95029	95529	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	95615	96883	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	97030	97863	.	-	.	product=tail protein;function=tail;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	98080	99108	.	+	.	product=hypothetical protein;function=conserved protein of unknown function;closest_match=Diazotrophic cyanobacterium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	99258	99416	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	99459	100589	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	100708	101829	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	101890	102825	.	-	.	product=DNA methyltransferase;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	102999	104748	.	-	.	product=DNA primase;function=DNA, RNA and nucleotide metabolism;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	104852	105088	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	105198	106145	.	-	.	product=InsQ/TnpB transposase;function=integration and excision;closest_match=Trichodesmium;closest_viral_match=Thermobifida phage P1312
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	108013	108507	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	108634	109167	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	109341	111053	.	+	.	product=Dda-like helicase;function=DNA, RNA and nucleotide metabolism;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	111958	112659	.	+	.	product=transcriptional regulator;function=transcription regulation;closest_match=Cyanobacterium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	112864	113370	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	113467	113856	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	113931	114092	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	114183	115343	.	+	.	product=DNA helicase;function=DNA, RNA and nucleotide metabolism;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	115659	116300	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	116363	116596	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	116821	117441	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	117477	117989	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	118073	118450	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	118900	119238	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	119269	119865	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	119942	120424	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	120616	121032	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	121086	123043	.	+	.	product=Type I RM - M;function=RM system;closest_match=Trichodesmium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	123036	125216	.	+	.	product=Type I RM - S;function=RM system;closest_match=Trichodesmium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	125330	125872	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	126134	126415	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	126595	127194	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	127191	127721	.	+	.	product=ABC transporter ;function=auxiliary metabolism, host takeover;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	127811	128320	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	128537	129181	.	-	.	product=endolysin;function=lysis;closest_match=Trichodesmium;closest_viral_match=Synechococcus phage DSL-LC03
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	129469	129975	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	129977	130486	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	131333	133072	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	133145	133747	.	+	.	product=thymidylate kinase;function=DNA, RNA and nucleotide metabolism;closest_match=Bacterium;closest_viral_match=Erwinia phage pEa_SNUABM_3
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	133747	134487	.	+	.	product=thymidylate synthase;function=DNA, RNA and nucleotide metabolism;closest_match=Trichodesmium;closest_viral_match=Synechococcus phage S-H1
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	134511	134963	.	+	.	product=polynucleotide kinase;function=DNA, RNA and nucleotide metabolism;closest_match=Caudoviricetes;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	134978	136579	.	+	.	product=ParA-like partition;function=DNA, RNA and nucleotide metabolism;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	136572	137295	.	+	.	product=Gao Iet ATPase;function=Phage defense;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	137369	138382	.	+	.	product=Gao Iet protease;function=Phage defense;closest_match=Cyanobacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	138407	139735	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	140193	140369	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	140381	140635	.	-	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	140772	141086	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	141196	142977	.	+	.	product=DNA methyltransferase;function=RM system;closest_match=Trichodesmium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	143021	143200	.	+	.	product=DNA methyltransferase;function=RM system;closest_match=Trichodesmium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	143238	143654	.	+	.	product=DNA methyltransferase;function=RM system;closest_match=Cyanobacterium;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	143624	144727	.	+	.	product=DNA methyltransferase;function=RM system;closest_match=Trichodesmium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	144764	145663	.	+	.	product=DHH phosphoesterase;function=DNA, RNA and nucleotide metabolism;closest_match=Diazotrophic cyanobacterium;closest_viral_match=Brevundimonas phage vB_BpoS-Kabachok
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	145721	146518	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	146678	147319	.	+	.	product=ParB-like partition;function=DNA, RNA and nucleotide metabolism;closest_match=Bacterium;closest_viral_match=Uncultured phage
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	147394	147684	.	+	.	product=hypothetical protein;function=unknown function;closest_match=No match;closest_viral_match=No match
+tricho_phage_NPSG.1	Pyrodigal_3.6.3	CDS	148011	149198	.	+	.	product=TerL;function=head and packaging;closest_match=Diazotroph phage;closest_viral_match=Nodularia phage vB_NspS-kac68v161

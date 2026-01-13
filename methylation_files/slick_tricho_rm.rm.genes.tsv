@@ -1,0 +1,24 @@
+Operon	Gene	System Type	Gene type	HMM	Evalue	Predicted methylation	Prediction confidence	REBASE homolog	Homolog identity(%)	Homolog methylation	Homolog motif
+RM Operon #1	NODE_153_length_24944_cov_757.707019_2	RM_Type_II	MT	Type_II_MTases_FAM_4	9.1e-79	m6A	0.961999489926039	M.TerORF3905P	99.149		GATC
+RM Operon #1	NODE_153_length_24944_cov_757.707019_3	RM_Type_II	RE	Type_II_REase07	5.5e-64			TerORF3905P	99.045		GATC
+RM Operon #2	NODE_198_length_20208_cov_384.410311_11	RM_Type_IV	RE	FAM_1-RM_Type_IV__Type_IV_REases	1e-64			TerMcrBCP_(TerMcrBP)	98.887		
+RM Operon #2	NODE_198_length_20208_cov_384.410311_10	RM_Type_IV	RE	Type_IV_01-RM_Type_IV__Type_IV_REases	5e-40			TerMcrBCP_(TerMcrCP)	99.506		
+RM Operon #3	NODE_210_length_19150_cov_1816.967321_6	RM_Type_II	MT	Type_II_MTases_FAM_0	2.7e-82	m5C	0.989974293059126	M.TerORF4678P	99.71	m5C	GTCGAC
+RM Operon #3	NODE_210_length_19150_cov_1816.967321_2	Type_IV	RE	GmrSD_N	1.4e-27	cuts m5C		Pag7805ORF3196P	66.389		
+RM Operon #4	NODE_34_length_61634_cov_436.625749_48	RM_Type_II	MT	Type_II_MTases_FAM_0	7e-65	m5C	0.989974293059126	M.TerORF4525P	99.703	m5C	CTGCAG
+RM Operon #4	NODE_34_length_61634_cov_436.625749_49	RM_Type_II	RE	Type_II_REase22	1.4e-58			TerORF4525P	99.408		CTGCAG
+Singleton #1	NODE_102_length_33826_cov_452.942850_24	RM_Type_II	MT	Type_II_MTases_FAM_14	1.2e-100	m6A	0.981308411214953	TerORF4598P	99.519	m6A	
+Singleton #10	NODE_52_length_51813_cov_688.393659_4	Type_IV	RE	GmrSD_N	1.9e-14	cuts m5C					
+Singleton #11	NODE_56_length_48013_cov_444.751658_4	RM_Type_I	RE	Type_I_REases_FAM_2.einsi_trimmed	4e-18						
+Singleton #12	NODE_67_length_44676_cov_538.449474_10	RM_Type_II	MT	Type_II_MTases_FAM_2	5.4e-81	m5C	0.988996200126663	M.TerORF4652P	99.274	m5C	
+Singleton #13	NODE_68_length_43634_cov_511.566328_3	Type_IV	RE	GmrSD_N	1.3e-36	cuts m5C					
+Singleton #2	NODE_110_length_31929_cov_470.605039_14	RM_Type_II	MT	Type_II_MTases_FAM_0	3e-11	m5C	0.989974293059126	M.Mae88ORF48450P	67.647	m5C	
+Singleton #2	NODE_110_length_31929_cov_470.605039_24	RM_Type_I	MT	Type_I_MTases_FAM_3	2.2e-254	m6A	0.999103299856528	M.TerORF4473P	99.557	m6A	
+Singleton #3	NODE_115_length_29876_cov_807.641796_11	RM_Type_II	MT	Type_II_MTases_FAM_1	1.1e-13			M.TerORF950P	98.603		
+Singleton #4	NODE_159_length_23997_cov_519.480244_1	RM_Type_I	RE	Type_I_REases_FAM_2.einsi_trimmed	1.4e-139			TerORF2418P	99.106		
+Singleton #5	NODE_169_length_22625_cov_378.337262_9	Type_IV	RE	GmrSD_N	3.3e-19	cuts m5C					
+Singleton #5	NODE_169_length_22625_cov_378.337262_12	Type_IV	RE	GmrSD_N	1.6e-23	cuts m5C					
+Singleton #6	NODE_177_length_21761_cov_483.241500_11	RM_Type_I	RE	Type_I_REases_FAM_1.einsi_trimmed	3.6e-282			TerORF4473P	95.156		
+Singleton #7	NODE_24_length_68070_cov_475.815467_55	RM_Type_II	MT	Type_II_MTases_FAM_0	2.8e-12	m5C	0.989974293059126	M.PspETS05ORFPP	68.227	m5C	
+Singleton #8	NODE_282_length_13315_cov_415.233710_5	RM_Type_II	MT	Type_II_MTases_FAM_21	9.9e-193	m5C	0.995564005069709	M.TerORF531P	99.525	m5C	CGATCG
+Singleton #9	NODE_405_length_8974_cov_484.942594_4	RM_Type_I	MT	Type_I_MTases_FAM_1	6.9e-170	m6A	0.996974281391831	M.TerORF2418P	100.0	m6A	
