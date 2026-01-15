@@ -586,7 +586,8 @@ FEATURES             Location/Qualifiers
                      /phrog="506"
                      /locus_tag="RUBFNVFB_CDS_0043"
                      /function="integration and excision"
-                     /product="InsQ/TnpB transposase"
+                     /product="Transposase: RNA-guided endonuclease InsQ/TnpB
+                     family protein"
                      /source="Pyrodigal_3.6.3"
                      /translation="MYAIKLKLKLNNKEKTFFEGCAGYSKFIYNYALSLLLATWDDKSI
                      KASDSKTLNTIRAVFTNVTKKQPGNEWMNQYSSRIYQHAFIALKSAFSRYRSPTLKGGL
@@ -602,7 +603,7 @@ FEATURES             Location/Qualifiers
                      /phrog="4617"
                      /locus_tag="RUBFNVFB_CDS_0044"
                      /function="DNA, RNA and nucleotide metabolism"
-                     /product="replication initiation"
+                     /product="replication initiation protein"
                      /source="Pyrodigal_3.6.3"
                      /translation="MITYNEFCKKYEGKNPDYGEPAQRLKTMHAIDSVCQKIFDNPAIE
                      KIKLEDCFCAFVQKMFNWSHYNELEYTEKDGSIKNYTYYSEKLKTFGTTVKGGIKYYAK
