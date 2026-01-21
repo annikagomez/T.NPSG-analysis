@@ -1,4 +1,4 @@
-LOCUS       tricho_phage_NPSG.2   149200 bp    DNA              PHG 29-MAY-2025
+LOCUS       tricho_phage_NPSG.2   149201 bp    DNA              PHG 29-MAY-2025
 DEFINITION  .
 ACCESSION   tricho_phage_NPSG
 VERSION     tricho_phage_NPSG.2
@@ -2131,7 +2131,7 @@ FEATURES             Location/Qualifiers
                      /source="Pyrodigal_3.6.3"
                      /translation="MRKPQQEKEDRIIYLAELYYKNGRNIKKTLELSTLSPNIVLRTLQ
                      KYAKTDLWQETISKLEAENSDEIALDNEKLDNTPVEVEETQSLTQPEPEAG*"
-     CDS             148011..149198
+     CDS             148011..149199
                      /ID="SHDOJQCQ_CDS_0166"
                      /transl_table=11
                      /phrog="36964"
@@ -2145,7 +2145,7 @@ FEATURES             Location/Qualifiers
                      TARGLDSVTMLFYDETAFIENFERLHAATTPCLEYAGDNARFIYVTTPNGNDEWFYHKL
                      TSDNNEDILNRIDQVKRGDDVERSLIDKKMILHYRHHPVFGADPEYLERRQRDLQISRS
                      KIEQEFNLGFADSQASIFPRQLVDNANRDFNISSNNVQYYIGIDPAGSGDDYTVVMVGA
-                     YDGKHLKIVDVYRDNLKSSNYNISKTNEIISKYRPVRCGVETNGGYGDKYMKSLAG"
+                     YDGKHLKIVDVYRDNLKSSNYNISKTNEIISKYRPVRCGVETNGGYGDKYMKSLAG*"
 ORIGIN
         1 gggcatacag actaatgaaa agagtaaaca agcaatgata gataaaattt tatatttttg
        61 aaagagagtt actgataatc aatcaagata tattactaca agaactcaaa gtattcaaac
@@ -4633,5 +4633,5 @@ ORIGIN
    148981 tagacccagc cggaagcggg gatgattaca ccgttgtaat ggtaggcgct tatgatggga
    149041 aacatctaaa aatagtagat gtgtatcgag acaatctcaa atcatcaaat tacaacatat
    149101 ctaaaaccaa cgaaattatc agcaagtata gaccggttag atgtggagta gaaaccaatg
-   149161 ggggttatgg cgataaatat atgaagtcac tggcaggata
+   149161 ggggttatgg cgataaatat atgaagtcac tggcaggata g
 //

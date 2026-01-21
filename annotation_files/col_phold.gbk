@@ -1,4 +1,4 @@
-LOCUS       k119_190429           143952 bp    DNA              PHG 29-MAY-2025
+LOCUS       k119_190429           143953 bp    DNA              PHG 29-MAY-2025
 DEFINITION  .
 ACCESSION   k119_190429
 VERSION     k119_190429
@@ -2033,7 +2033,7 @@ FEATURES             Location/Qualifiers
                      KYAKTYLWQETISKLEAENSDEIALDNEKLDNTPVEVEKTQPLTQPEPEARVVLTGVAA
                      VTIQQAAECFNKHILARKKALDAEIVASNKLLSSILSLSDILPAKKEEISQMSVEEITK
                      FIRSLVASYSSIKKSIHQETENMYALQDLQKLFEENNLIK*"
-     CDS             142508..143950
+     CDS             142508..143953
                      /ID="RUBFNVFB_CDS_0150"
                      /transl_table=11
                      /phrog="2"
@@ -2049,7 +2049,7 @@ FEATURES             Location/Qualifiers
                      ISRSKIEQEFNLGFADSQASIFPRQLVDNANRDFNISSNNVQYYIGIDPAGSGDDYTVV
                      MVGAYDGKHLKIVDMYRDNLKSSNYNISKTNEIISKYRPVRCGVETNGGYGDKYMTEVT
                      GRIEGIQTNEKSKQAMVDKILLFLERELLIINQDILLQELKVFKRNGKKLTAPNGLHDD
-                     CVMGLAMLLKVVPDISKAFWAFA"
+                     CVMGLAMLLKVVPDISKAFWAFA*"
 ORIGIN
         1 atattattag atgataaact caaagcaaaa tacagctatt ggccctagtc ggtagctggt
        61 ttttatttgc ttagcgatcg ctacttttag ggagcttcat agaatgtatt agtaatgggc
@@ -4450,5 +4450,5 @@ ORIGIN
    143761 aatcttacta tttttagaaa gagaattact gataatcaat caagatatat tgctacaaga
    143821 actcaaagta ttcaaacgca acggtaaaaa actaacagcc cccaacggcc tccatgatga
    143881 ttgtgtgatg ggactagcga tgttgcttaa agtagtccca gatattagca aagctttctg
-   143941 ggcgtttgct tg
+   143941 ggcgtttgct tga
 //
