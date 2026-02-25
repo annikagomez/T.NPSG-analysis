@@ -12,6 +12,7 @@ rawCounts <- round(as.matrix(rawCounts[,sampleIndex]))
 rownames(rawCounts) <- geneID
 head(rawCounts)
 
+#metadata file indicated which samples are from the slick and which are from colonies
 metaData <- read.csv("metaT_files/slick_metadata.csv",header=TRUE)
 head(metaData)
 rownames(metaData) <- metaData$id
