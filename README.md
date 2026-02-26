@@ -36,7 +36,7 @@ Code and data used to perform analysis and generate figures in "A globally distr
   - `tery_raw_gene_counts.csv`: Raw number of reads mapped per coding region for Trichodesmium erythraeum contigs; input for DESeq analysis
   - `tery_tpm.csv`: TPM by sample of each Trichodesmium erythraeum CDS
 - methylation_files/
-  - `slick_phage_ont.cov`: Coverage of the T.NPSG.2 genome by nanopore read mapping
+  - `*_ont.cov`: Coverage of the T.NPSG.2 and Trichodesmium erythraeum genomes by nanopore read mapping
   - `slick_*_rm.rm.genes.tsv`: MicrobeMod annotation of RM-related genes in T.NPSG.2 and Trichodesmium erythraeum genome
   - `tery_IMS101_ref.gbk`: T. erythraeum IMS101 genome (NC_008312.1)
   - `*_methylated_sites.tsv`: Methylation calls - MicrobeMod output
