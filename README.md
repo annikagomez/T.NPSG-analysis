@@ -41,6 +41,8 @@ Code and data used to perform analysis and generate figures in "A globally distr
   - `tery_IMS101_ref.gbk`: T. erythraeum IMS101 genome (NC_008312.1)
   - `*_methylated_sites.tsv`: Methylation calls - MicrobeMod output
   - `*_motifs.tsv`: Methylated motifs - MicrobeMod output
+- model_output/
+  - netcdf files produced by global ecosystem model  
 - orthogroup_files/
   - `Orthogroups.tsv`: OrthoFinder output
   -  `genome_type.csv`: Key mapping genome name to category for visualization
