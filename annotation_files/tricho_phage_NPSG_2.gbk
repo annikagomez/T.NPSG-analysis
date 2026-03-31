@@ -1,4 +1,4 @@
-LOCUS       tricho_phage_NPSG.2   149200 bp    DNA              PHG 29-MAY-2025
+LOCUS       tricho_phage_NPSG.2   149201 bp    DNA              PHG 29-MAY-2025
 DEFINITION  .
 ACCESSION   tricho_phage_NPSG
 VERSION     tricho_phage_NPSG.2
@@ -4791,5 +4791,5 @@ ORIGIN
    148981 tagacccagc cggaagcggg gatgattaca ccgttgtaat ggtaggcgct tatgatggga
    149041 aacatctaaa aatagtagat gtgtatcgag acaatctcaa atcatcaaat tacaacatat
    149101 ctaaaaccaa cgaaattatc agcaagtata gaccggttag atgtggagta gaaaccaatg
-   149161 ggggttatgg cgataaatat atgaagtcac tggcaggata
+   149161 ggggttatgg cgataaatat atgaagtcac tggcaggata a
 //

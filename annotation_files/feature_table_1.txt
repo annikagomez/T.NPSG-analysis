@@ -1,4 +1,4 @@
->Feature T.NPSG.1
+>Feature T.NPSG.2015
 243	1229	gene
 			locus_tag	RUBFNVFB_CDS_0001
 243	1229	CDS
@@ -17,15 +17,15 @@
 			locus_tag	RUBFNVFB_CDS_0003
 			product	hypothetical protein
 			transl_table	11
-3383	3137	gene
+3383	3138	gene
 			locus_tag	RUBFNVFB_CDS_0004
-3383	3137	CDS
+3383	3138	CDS
 			locus_tag	RUBFNVFB_CDS_0004
 			product	hypothetical protein
 			transl_table	11
-3679	3388	gene
+3679	3389	gene
 			locus_tag	RUBFNVFB_CDS_0005
-3679	3388	CDS
+3679	3389	CDS
 			locus_tag	RUBFNVFB_CDS_0005
 			product	hypothetical protein
 			transl_table	11
@@ -41,9 +41,9 @@
 			locus_tag	RUBFNVFB_CDS_0007
 			product	hypothetical protein
 			transl_table	11
-4673	4373	gene
+4673	4374	gene
 			locus_tag	RUBFNVFB_CDS_0008
-4673	4373	CDS
+4673	4374	CDS
 			locus_tag	RUBFNVFB_CDS_0008
 			product	hypothetical protein
 			transl_table	11
@@ -83,27 +83,27 @@
 			locus_tag	RUBFNVFB_CDS_0014
 			product	DndC sulfurtransferase
 			transl_table	11
-11683	11350	gene
+11683	11351	gene
 			locus_tag	RUBFNVFB_CDS_0015
-11683	11350	CDS
+11683	11351	CDS
 			locus_tag	RUBFNVFB_CDS_0015
 			product	hypothetical protein
 			transl_table	11
-12231	11823	gene
+12231	11824	gene
 			locus_tag	RUBFNVFB_CDS_0016
-12231	11823	CDS
+12231	11824	CDS
 			locus_tag	RUBFNVFB_CDS_0016
 			product	hypothetical protein
 			transl_table	11
-12589	12334	gene
+12589	12335	gene
 			locus_tag	RUBFNVFB_CDS_0017
-12589	12334	CDS
+12589	12335	CDS
 			locus_tag	RUBFNVFB_CDS_0017
 			product	hypothetical protein
 			transl_table	11
-13004	12590	gene
+13004	12591	gene
 			locus_tag	RUBFNVFB_CDS_0018
-13004	12590	CDS
+13004	12591	CDS
 			locus_tag	RUBFNVFB_CDS_0018
 			product	DNA binding protein
 			transl_table	11
@@ -113,15 +113,15 @@
 			locus_tag	RUBFNVFB_CDS_0019
 			product	hypothetical protein
 			transl_table	11
-15186	13914	gene
+15186	13915	gene
 			locus_tag	RUBFNVFB_CDS_0020
-15186	13914	CDS
+15186	13915	CDS
 			locus_tag	RUBFNVFB_CDS_0020
 			product	portal protein
 			transl_table	11
-15584	15185	gene
+15584	15186	gene
 			locus_tag	RUBFNVFB_CDS_0021
-15584	15185	CDS
+15584	15186	CDS
 			locus_tag	RUBFNVFB_CDS_0021
 			product	L-shaped tail fiber
 			transl_table	11
@@ -131,45 +131,45 @@
 			locus_tag	RUBFNVFB_CDS_0022
 			product	hypothetical protein
 			transl_table	11
-16710	16167	gene
+16710	16168	gene
 			locus_tag	RUBFNVFB_CDS_0023
-16710	16167	CDS
+16710	16168	CDS
 			locus_tag	RUBFNVFB_CDS_0023
 			product	hypothetical protein
 			transl_table	11
-17170	16735	gene
+17170	16736	gene
 			locus_tag	RUBFNVFB_CDS_0024
-17170	16735	CDS
+17170	16736	CDS
 			locus_tag	RUBFNVFB_CDS_0024
 			product	hypothetical protein
 			transl_table	11
-17588	17159	gene
+17588	17160	gene
 			locus_tag	RUBFNVFB_CDS_0025
-17588	17159	CDS
+17588	17160	CDS
 			locus_tag	RUBFNVFB_CDS_0025
 			product	hypothetical protein
 			transl_table	11
-18004	17641	gene
+18004	17642	gene
 			locus_tag	RUBFNVFB_CDS_0026
-18004	17641	CDS
+18004	17642	CDS
 			locus_tag	RUBFNVFB_CDS_0026
 			product	hypothetical protein
 			transl_table	11
-18899	18068	gene
+18899	18069	gene
 			locus_tag	RUBFNVFB_CDS_0027
-18899	18068	CDS
+18899	18069	CDS
 			locus_tag	RUBFNVFB_CDS_0027
 			product	proximal tail fiber
 			transl_table	11
-20094	18861	gene
+20094	18862	gene
 			locus_tag	RUBFNVFB_CDS_0028
-20094	18861	CDS
+20094	18862	CDS
 			locus_tag	RUBFNVFB_CDS_0028
 			product	proximal tail fiber
 			transl_table	11
-20477	20090	gene
+20477	20091	gene
 			locus_tag	RUBFNVFB_CDS_0029
-20477	20090	CDS
+20477	20091	CDS
 			locus_tag	RUBFNVFB_CDS_0029
 			product	hypothetical protein
 			transl_table	11
@@ -209,9 +209,9 @@
 			locus_tag	RUBFNVFB_CDS_0035
 			product	hypothetical protein
 			transl_table	11
-27288	26508	gene
+27288	26509	gene
 			locus_tag	RUBFNVFB_CDS_0036
-27288	26508	CDS
+27288	26509	CDS
 			locus_tag	RUBFNVFB_CDS_0036
 			product	hypothetical protein
 			transl_table	11
@@ -221,57 +221,57 @@
 			locus_tag	RUBFNVFB_CDS_0037
 			product	virion structure
 			transl_table	11
-28507	27712	gene
+28507	27713	gene
 			locus_tag	RUBFNVFB_CDS_0038
-28507	27712	CDS
+28507	27713	CDS
 			locus_tag	RUBFNVFB_CDS_0038
 			product	ParA-like partition
 			transl_table	11
-28725	28572	gene
+28725	28573	gene
 			locus_tag	RUBFNVFB_CDS_0039
-28725	28572	CDS
+28725	28573	CDS
 			locus_tag	RUBFNVFB_CDS_0039
 			product	hypothetical protein
 			transl_table	11
-30001	28816	gene
+30001	28817	gene
 			locus_tag	RUBFNVFB_CDS_0040
-30001	28816	CDS
+30001	28817	CDS
 			locus_tag	RUBFNVFB_CDS_0040
 			product	hypothetical protein
 			transl_table	11
-31336	30241	gene
+31336	30242	gene
 			locus_tag	RUBFNVFB_CDS_0041
-31336	30241	CDS
+31336	30242	CDS
 			locus_tag	RUBFNVFB_CDS_0041
 			product	telomere resolvase
 			transl_table	11
-31633	31447	gene
+31633	31448	gene
 			locus_tag	RUBFNVFB_CDS_0042
-31633	31447	CDS
+31633	31448	CDS
 			locus_tag	RUBFNVFB_CDS_0042
 			product	hypothetical protein
 			transl_table	11
-33429	32292	gene
+33429	32293	gene
 			locus_tag	RUBFNVFB_CDS_0043
-33429	32292	CDS
+33429	32293	CDS
 			locus_tag	RUBFNVFB_CDS_0043
-			product	Transposase: RNA-guided endonuclease InsQ/TnpB family protein
+			product	InsQ/TnpB transposase
 			transl_table	11
 34130	36133	gene
 			locus_tag	RUBFNVFB_CDS_0044
 34130	36133	CDS
 			locus_tag	RUBFNVFB_CDS_0044
-			product	replication initiation protein
+			product	replication initiation
 			transl_table	11
-36521	36158	gene
+36521	36159	gene
 			locus_tag	RUBFNVFB_CDS_0045
-36521	36158	CDS
+36521	36159	CDS
 			locus_tag	RUBFNVFB_CDS_0045
 			product	hypothetical protein
 			transl_table	11
-37200	36477	gene
+37200	36478	gene
 			locus_tag	RUBFNVFB_CDS_0046
-37200	36477	CDS
+37200	36478	CDS
 			locus_tag	RUBFNVFB_CDS_0046
 			product	hypothetical protein
 			transl_table	11
@@ -287,27 +287,27 @@
 			locus_tag	RUBFNVFB_CDS_0048
 			product	hypothetical protein
 			transl_table	11
-39696	38652	gene
+39696	38653	gene
 			locus_tag	RUBFNVFB_CDS_0049
-39696	38652	CDS
+39696	38653	CDS
 			locus_tag	RUBFNVFB_CDS_0049
 			product	hypothetical protein
 			transl_table	11
-39988	39808	gene
+39988	39809	gene
 			locus_tag	RUBFNVFB_CDS_0050
-39988	39808	CDS
+39988	39809	CDS
 			locus_tag	RUBFNVFB_CDS_0050
 			product	hypothetical protein
 			transl_table	11
-40172	39977	gene
+40172	39978	gene
 			locus_tag	RUBFNVFB_CDS_0051
-40172	39977	CDS
+40172	39978	CDS
 			locus_tag	RUBFNVFB_CDS_0051
 			product	hypothetical protein
 			transl_table	11
-40595	40361	gene
+40595	40362	gene
 			locus_tag	RUBFNVFB_CDS_0052
-40595	40361	CDS
+40595	40362	CDS
 			locus_tag	RUBFNVFB_CDS_0052
 			product	hypothetical protein
 			transl_table	11
@@ -317,27 +317,27 @@
 			locus_tag	RUBFNVFB_CDS_0053
 			product	hypothetical protein
 			transl_table	11
-42274	41212	gene
+42274	41213	gene
 			locus_tag	RUBFNVFB_CDS_0054
-42274	41212	CDS
+42274	41213	CDS
 			locus_tag	RUBFNVFB_CDS_0054
 			product	ParA-like partition
 			transl_table	11
-42863	42350	gene
+42863	42351	gene
 			locus_tag	RUBFNVFB_CDS_0055
-42863	42350	CDS
+42863	42351	CDS
 			locus_tag	RUBFNVFB_CDS_0055
 			product	hypothetical protein
 			transl_table	11
-43337	42914	gene
+43337	42915	gene
 			locus_tag	RUBFNVFB_CDS_0056
-43337	42914	CDS
+43337	42915	CDS
 			locus_tag	RUBFNVFB_CDS_0056
 			product	hypothetical protein
 			transl_table	11
-44084	43343	gene
+44084	43344	gene
 			locus_tag	RUBFNVFB_CDS_0057
-44084	43343	CDS
+44084	43344	CDS
 			locus_tag	RUBFNVFB_CDS_0057
 			product	Gp37
 			transl_table	11
@@ -353,9 +353,9 @@
 			locus_tag	RUBFNVFB_CDS_0059
 			product	telomere resolvase
 			transl_table	11
-45982	45562	gene
+45982	45563	gene
 			locus_tag	RUBFNVFB_CDS_0060
-45982	45562	CDS
+45982	45563	CDS
 			locus_tag	RUBFNVFB_CDS_0060
 			product	RusA
 			transl_table	11
@@ -365,9 +365,9 @@
 			locus_tag	RUBFNVFB_CDS_0061
 			product	RNR
 			transl_table	11
-50666	49865	gene
+50666	49866	gene
 			locus_tag	RUBFNVFB_CDS_0062
-50666	49865	CDS
+50666	49866	CDS
 			locus_tag	RUBFNVFB_CDS_0062
 			product	hypothetical protein
 			transl_table	11
@@ -389,21 +389,21 @@
 			locus_tag	RUBFNVFB_CDS_0065
 			product	hypothetical protein
 			transl_table	11
-53290	52342	gene
+53290	52343	gene
 			locus_tag	RUBFNVFB_CDS_0066
-53290	52342	CDS
+53290	52343	CDS
 			locus_tag	RUBFNVFB_CDS_0066
 			product	DNA methyltransferase
 			transl_table	11
-54777	53367	gene
+54777	53368	gene
 			locus_tag	RUBFNVFB_CDS_0067
-54777	53367	CDS
+54777	53368	CDS
 			locus_tag	RUBFNVFB_CDS_0067
 			product	DnaB helicase
 			transl_table	11
-55180	54808	gene
+55180	54809	gene
 			locus_tag	RUBFNVFB_CDS_0068
-55180	54808	CDS
+55180	54809	CDS
 			locus_tag	RUBFNVFB_CDS_0068
 			product	hypothetical protein
 			transl_table	11
@@ -425,45 +425,45 @@
 			locus_tag	RUBFNVFB_CDS_0071
 			product	DNApol III beta subunit
 			transl_table	11
-60148	59230	gene
+60148	59231	gene
 			locus_tag	RUBFNVFB_CDS_0072
-60148	59230	CDS
+60148	59231	CDS
 			locus_tag	RUBFNVFB_CDS_0072
 			product	tail fiber protein
 			transl_table	11
-60553	60151	gene
+60553	60152	gene
 			locus_tag	RUBFNVFB_CDS_0073
-60553	60151	CDS
+60553	60152	CDS
 			locus_tag	RUBFNVFB_CDS_0073
 			product	hypothetical protein
 			transl_table	11
-60929	60557	gene
+60929	60558	gene
 			locus_tag	RUBFNVFB_CDS_0074
-60929	60557	CDS
+60929	60558	CDS
 			locus_tag	RUBFNVFB_CDS_0074
 			product	hypothetical protein
 			transl_table	11
-61338	60954	gene
+61338	60955	gene
 			locus_tag	RUBFNVFB_CDS_0075
-61338	60954	CDS
+61338	60955	CDS
 			locus_tag	RUBFNVFB_CDS_0075
 			product	hypothetical protein
 			transl_table	11
-61844	61343	gene
+61844	61344	gene
 			locus_tag	RUBFNVFB_CDS_0076
-61844	61343	CDS
+61844	61344	CDS
 			locus_tag	RUBFNVFB_CDS_0076
 			product	tRNA methyltransferase
 			transl_table	11
-62658	61914	gene
+62658	61915	gene
 			locus_tag	RUBFNVFB_CDS_0077
-62658	61914	CDS
+62658	61915	CDS
 			locus_tag	RUBFNVFB_CDS_0077
 			product	ssDNA binding protein
 			transl_table	11
-63218	62687	gene
+63218	62688	gene
 			locus_tag	RUBFNVFB_CDS_0078
-63218	62687	CDS
+63218	62688	CDS
 			locus_tag	RUBFNVFB_CDS_0078
 			product	hypothetical protein
 			transl_table	11
@@ -473,15 +473,15 @@
 			locus_tag	RUBFNVFB_CDS_0079
 			product	hypothetical protein
 			transl_table	11
-66208	64342	gene
+66208	64343	gene
 			locus_tag	RUBFNVFB_CDS_0080
-66208	64342	CDS
+66208	64343	CDS
 			locus_tag	RUBFNVFB_CDS_0080
 			product	DNApol A
 			transl_table	11
-66936	66360	gene
+66936	66361	gene
 			locus_tag	RUBFNVFB_CDS_0081
-66936	66360	CDS
+66936	66361	CDS
 			locus_tag	RUBFNVFB_CDS_0081
 			product	hypothetical protein
 			transl_table	11
@@ -515,15 +515,15 @@
 			locus_tag	RUBFNVFB_CDS_0086
 			product	baseplate hub
 			transl_table	11
-70282	69880	gene
+70282	69881	gene
 			locus_tag	RUBFNVFB_CDS_0087
-70282	69880	CDS
+70282	69881	CDS
 			locus_tag	RUBFNVFB_CDS_0087
 			product	hypothetical protein
 			transl_table	11
-71567	70733	gene
+71567	70734	gene
 			locus_tag	RUBFNVFB_CDS_0088
-71567	70733	CDS
+71567	70734	CDS
 			locus_tag	RUBFNVFB_CDS_0088
 			product	transcriptional regulator
 			transl_table	11
@@ -569,39 +569,39 @@
 			locus_tag	RUBFNVFB_CDS_0095
 			product	tail tape measure
 			transl_table	11
-90045	89592	gene
+90045	89593	gene
 			locus_tag	RUBFNVFB_CDS_0096
-90045	89592	CDS
+90045	89593	CDS
 			locus_tag	RUBFNVFB_CDS_0096
 			product	hypothetical protein
 			transl_table	11
-90621	90222	gene
+90621	90223	gene
 			locus_tag	RUBFNVFB_CDS_0097
-90621	90222	CDS
+90621	90223	CDS
 			locus_tag	RUBFNVFB_CDS_0097
 			product	hypothetical protein
 			transl_table	11
-91782	90762	gene
+91782	90763	gene
 			locus_tag	RUBFNVFB_CDS_0098
-91782	90762	CDS
+91782	90763	CDS
 			locus_tag	RUBFNVFB_CDS_0098
 			product	hypothetical protein
 			transl_table	11
-92952	91857	gene
+92952	91858	gene
 			locus_tag	RUBFNVFB_CDS_0099
-92952	91857	CDS
+92952	91858	CDS
 			locus_tag	RUBFNVFB_CDS_0099
 			product	endonuclease
 			transl_table	11
-93577	93076	gene
+93577	93077	gene
 			locus_tag	RUBFNVFB_CDS_0100
-93577	93076	CDS
+93577	93077	CDS
 			locus_tag	RUBFNVFB_CDS_0100
 			product	hypothetical protein
 			transl_table	11
-95912	93662	gene
+95912	93663	gene
 			locus_tag	RUBFNVFB_CDS_0101
-95912	93662	CDS
+95912	93663	CDS
 			locus_tag	RUBFNVFB_CDS_0101
 			product	hypothetical protein
 			transl_table	11
@@ -629,33 +629,33 @@
 			locus_tag	RUBFNVFB_CDS_0105
 			product	hypothetical protein
 			transl_table	11
-100872	99939	gene
+100872	99940	gene
 			locus_tag	RUBFNVFB_CDS_0106
-100872	99939	CDS
+100872	99940	CDS
 			locus_tag	RUBFNVFB_CDS_0106
 			product	DNA methyltransferase
 			transl_table	11
-102798	100887	gene
+102798	100888	gene
 			locus_tag	RUBFNVFB_CDS_0107
-102798	100887	CDS
+102798	100888	CDS
 			locus_tag	RUBFNVFB_CDS_0107
 			product	DNA primase
 			transl_table	11
-104196	102864	gene
+104196	102865	gene
 			locus_tag	RUBFNVFB_CDS_0108
-104196	102864	CDS
+104196	102865	CDS
 			locus_tag	RUBFNVFB_CDS_0108
 			product	InsQ/TnpB transposase
 			transl_table	11
-106561	106066	gene
+106561	106067	gene
 			locus_tag	RUBFNVFB_CDS_0109
-106561	106066	CDS
+106561	106067	CDS
 			locus_tag	RUBFNVFB_CDS_0109
 			product	hypothetical protein
 			transl_table	11
-107221	106687	gene
+107221	106688	gene
 			locus_tag	RUBFNVFB_CDS_0110
-107221	106687	CDS
+107221	106688	CDS
 			locus_tag	RUBFNVFB_CDS_0110
 			product	hypothetical protein
 			transl_table	11
@@ -677,9 +677,9 @@
 			locus_tag	RUBFNVFB_CDS_0113
 			product	hypothetical protein
 			transl_table	11
-110174	109985	gene
+110174	109986	gene
 			locus_tag	RUBFNVFB_CDS_0114
-110174	109985	CDS
+110174	109986	CDS
 			locus_tag	RUBFNVFB_CDS_0114
 			product	hypothetical protein
 			transl_table	11
@@ -767,15 +767,15 @@
 			locus_tag	RUBFNVFB_CDS_0128
 			product	hypothetical protein
 			transl_table	11
-122809	122299	gene
+122809	122300	gene
 			locus_tag	RUBFNVFB_CDS_0129
-122809	122299	CDS
+122809	122300	CDS
 			locus_tag	RUBFNVFB_CDS_0129
 			product	ABC transporter 
 			transl_table	11
-123862	123025	gene
+123862	123026	gene
 			locus_tag	RUBFNVFB_CDS_0130
-123862	123025	CDS
+123862	123026	CDS
 			locus_tag	RUBFNVFB_CDS_0130
 			product	endolysin
 			transl_table	11
@@ -845,15 +845,15 @@
 			locus_tag	RUBFNVFB_CDS_0141
 			product	Gao Iet protease
 			transl_table	11
-134222	132929	gene
+134222	132930	gene
 			locus_tag	RUBFNVFB_CDS_0142
-134222	132929	CDS
+134222	132930	CDS
 			locus_tag	RUBFNVFB_CDS_0142
 			product	hypothetical protein
 			transl_table	11
-135124	134377	gene
+135124	134378	gene
 			locus_tag	RUBFNVFB_CDS_0143
-135124	134377	CDS
+135124	134378	CDS
 			locus_tag	RUBFNVFB_CDS_0143
 			product	hypothetical protein
 			transl_table	11

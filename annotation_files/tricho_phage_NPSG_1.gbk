@@ -1,4 +1,4 @@
-LOCUS       k119_190429           143952 bp    DNA              PHG 29-MAY-2025
+LOCUS       k119_190429           143953 bp    DNA              PHG 29-MAY-2025
 DEFINITION  .
 ACCESSION   k119_190429
 VERSION     k119_190429
@@ -4593,5 +4593,5 @@ ORIGIN
    143761 aatcttacta tttttagaaa gagaattact gataatcaat caagatatat tgctacaaga
    143821 actcaaagta ttcaaacgca acggtaaaaa actaacagcc cccaacggcc tccatgatga
    143881 ttgtgtgatg ggactagcga tgttgcttaa agtagtccca gatattagca aagctttctg
-   143941 ggcgtttgct tg
+   143941 ggcgtttgct tga
 //

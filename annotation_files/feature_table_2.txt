@@ -1,4 +1,4 @@
->Feature T.NPSG.2
+>Feature T.NPSG.2017
 466	690	gene
 			locus_tag	SHDOJQCQ_CDS_0001
 466	690	CDS
@@ -23,15 +23,15 @@
 			locus_tag	SHDOJQCQ_CDS_0004
 			product	hypothetical protein
 			transl_table	11
-4399	4153	gene
+4399	4154	gene
 			locus_tag	SHDOJQCQ_CDS_0005
-4399	4153	CDS
+4399	4154	CDS
 			locus_tag	SHDOJQCQ_CDS_0005
 			product	hypothetical protein
 			transl_table	11
-4695	4404	gene
+4695	4405	gene
 			locus_tag	SHDOJQCQ_CDS_0006
-4695	4404	CDS
+4695	4405	CDS
 			locus_tag	SHDOJQCQ_CDS_0006
 			product	hypothetical protein
 			transl_table	11
@@ -47,9 +47,9 @@
 			locus_tag	SHDOJQCQ_CDS_0008
 			product	hypothetical protein
 			transl_table	11
-5689	5389	gene
+5689	5390	gene
 			locus_tag	SHDOJQCQ_CDS_0009
-5689	5389	CDS
+5689	5390	CDS
 			locus_tag	SHDOJQCQ_CDS_0009
 			product	hypothetical protein
 			transl_table	11
@@ -65,9 +65,9 @@
 			locus_tag	SHDOJQCQ_CDS_0011
 			product	hypothetical protein
 			transl_table	11
-9303	8844	gene
+9303	8845	gene
 			locus_tag	SHDOJQCQ_CDS_0012
-9303	8844	CDS
+9303	8845	CDS
 			locus_tag	SHDOJQCQ_CDS_0012
 			product	hypothetical protein
 			transl_table	11
@@ -95,15 +95,15 @@
 			locus_tag	SHDOJQCQ_CDS_0016
 			product	DndC sulfurtransferase
 			transl_table	11
-13379	12971	gene
+13379	12972	gene
 			locus_tag	SHDOJQCQ_CDS_0017
-13379	12971	CDS
+13379	12972	CDS
 			locus_tag	SHDOJQCQ_CDS_0017
 			product	hypothetical protein
 			transl_table	11
-13992	13482	gene
+13992	13483	gene
 			locus_tag	SHDOJQCQ_CDS_0018
-13992	13482	CDS
+13992	13483	CDS
 			locus_tag	SHDOJQCQ_CDS_0018
 			product	DNA binding protein
 			transl_table	11
@@ -113,21 +113,21 @@
 			locus_tag	SHDOJQCQ_CDS_0019
 			product	hypothetical protein
 			transl_table	11
-15127	14902	gene
+15127	14903	gene
 			locus_tag	SHDOJQCQ_CDS_0020
-15127	14902	CDS
+15127	14903	CDS
 			locus_tag	SHDOJQCQ_CDS_0020
 			product	hypothetical protein
 			transl_table	11
-16163	15116	gene
+16163	15117	gene
 			locus_tag	SHDOJQCQ_CDS_0021
-16163	15116	CDS
+16163	15117	CDS
 			locus_tag	SHDOJQCQ_CDS_0021
 			product	portal protein
 			transl_table	11
-16561	16162	gene
+16561	16163	gene
 			locus_tag	SHDOJQCQ_CDS_0022
-16561	16162	CDS
+16561	16163	CDS
 			locus_tag	SHDOJQCQ_CDS_0022
 			product	L-shaped tail fiber
 			transl_table	11
@@ -137,45 +137,45 @@
 			locus_tag	SHDOJQCQ_CDS_0023
 			product	hypothetical protein
 			transl_table	11
-17687	17120	gene
+17687	17121	gene
 			locus_tag	SHDOJQCQ_CDS_0024
-17687	17120	CDS
+17687	17121	CDS
 			locus_tag	SHDOJQCQ_CDS_0024
 			product	hypothetical protein
 			transl_table	11
-18147	17712	gene
+18147	17713	gene
 			locus_tag	SHDOJQCQ_CDS_0025
-18147	17712	CDS
+18147	17713	CDS
 			locus_tag	SHDOJQCQ_CDS_0025
 			product	hypothetical protein
 			transl_table	11
-18565	18136	gene
+18565	18137	gene
 			locus_tag	SHDOJQCQ_CDS_0026
-18565	18136	CDS
+18565	18137	CDS
 			locus_tag	SHDOJQCQ_CDS_0026
 			product	hypothetical protein
 			transl_table	11
-18981	18603	gene
+18981	18604	gene
 			locus_tag	SHDOJQCQ_CDS_0027
-18981	18603	CDS
+18981	18604	CDS
 			locus_tag	SHDOJQCQ_CDS_0027
 			product	hypothetical protein
 			transl_table	11
-20212	19045	gene
+20212	19046	gene
 			locus_tag	SHDOJQCQ_CDS_0028
-20212	19045	CDS
+20212	19046	CDS
 			locus_tag	SHDOJQCQ_CDS_0028
 			product	proximal tail fiber
 			transl_table	11
-22280	20183	gene
+22280	20184	gene
 			locus_tag	SHDOJQCQ_CDS_0029
-22280	20183	CDS
+22280	20184	CDS
 			locus_tag	SHDOJQCQ_CDS_0029
 			product	proximal tail fiber
 			transl_table	11
-22666	22279	gene
+22666	22280	gene
 			locus_tag	SHDOJQCQ_CDS_0030
-22666	22279	CDS
+22666	22280	CDS
 			locus_tag	SHDOJQCQ_CDS_0030
 			product	hypothetical protein
 			transl_table	11
@@ -215,9 +215,9 @@
 			locus_tag	SHDOJQCQ_CDS_0036
 			product	hypothetical protein
 			transl_table	11
-29475	29040	gene
+29475	29041	gene
 			locus_tag	SHDOJQCQ_CDS_0037
-29475	29040	CDS
+29475	29041	CDS
 			locus_tag	SHDOJQCQ_CDS_0037
 			product	hypothetical protein
 			transl_table	11
@@ -227,51 +227,51 @@
 			locus_tag	SHDOJQCQ_CDS_0038
 			product	virion structure
 			transl_table	11
-30694	29899	gene
+30694	29900	gene
 			locus_tag	SHDOJQCQ_CDS_0039
-30694	29899	CDS
+30694	29900	CDS
 			locus_tag	SHDOJQCQ_CDS_0039
 			product	ParA-like partition
 			transl_table	11
-30912	30759	gene
+30912	30760	gene
 			locus_tag	SHDOJQCQ_CDS_0040
-30912	30759	CDS
+30912	30760	CDS
 			locus_tag	SHDOJQCQ_CDS_0040
 			product	hypothetical protein
 			transl_table	11
-31899	31005	gene
+31899	31006	gene
 			locus_tag	SHDOJQCQ_CDS_0041
-31899	31005	CDS
+31899	31006	CDS
 			locus_tag	SHDOJQCQ_CDS_0041
 			product	hypothetical protein
 			transl_table	11
-32186	31964	gene
+32186	31965	gene
 			locus_tag	SHDOJQCQ_CDS_0042
-32186	31964	CDS
+32186	31965	CDS
 			locus_tag	SHDOJQCQ_CDS_0042
 			product	hypothetical protein
 			transl_table	11
-33380	32426	gene
+33380	32427	gene
 			locus_tag	SHDOJQCQ_CDS_0043
-33380	32426	CDS
+33380	32427	CDS
 			locus_tag	SHDOJQCQ_CDS_0043
 			product	telomere resolvase
 			transl_table	11
-33520	33370	gene
+33520	33371	gene
 			locus_tag	SHDOJQCQ_CDS_0044
-33520	33370	CDS
+33520	33371	CDS
 			locus_tag	SHDOJQCQ_CDS_0044
 			product	hypothetical protein
 			transl_table	11
-33817	33631	gene
+33817	33632	gene
 			locus_tag	SHDOJQCQ_CDS_0045
-33817	33631	CDS
+33817	33632	CDS
 			locus_tag	SHDOJQCQ_CDS_0045
 			product	hypothetical protein
 			transl_table	11
-35613	34476	gene
+35613	34477	gene
 			locus_tag	SHDOJQCQ_CDS_0046
-35613	34476	CDS
+35613	34477	CDS
 			locus_tag	SHDOJQCQ_CDS_0046
 			product	InsQ/TnpB transposase
 			transl_table	11
@@ -279,17 +279,17 @@
 			locus_tag	SHDOJQCQ_CDS_0047
 36314	38275	CDS
 			locus_tag	SHDOJQCQ_CDS_0047
-			product	replication initiation protein
+			product	replication initiation
 			transl_table	11
-38663	38300	gene
+38663	38301	gene
 			locus_tag	SHDOJQCQ_CDS_0048
-38663	38300	CDS
+38663	38301	CDS
 			locus_tag	SHDOJQCQ_CDS_0048
 			product	hypothetical protein
 			transl_table	11
-39342	38619	gene
+39342	38620	gene
 			locus_tag	SHDOJQCQ_CDS_0049
-39342	38619	CDS
+39342	38620	CDS
 			locus_tag	SHDOJQCQ_CDS_0049
 			product	hypothetical protein
 			transl_table	11
@@ -305,27 +305,27 @@
 			locus_tag	SHDOJQCQ_CDS_0051
 			product	hypothetical protein
 			transl_table	11
-41433	40794	gene
+41433	40795	gene
 			locus_tag	SHDOJQCQ_CDS_0052
-41433	40794	CDS
+41433	40795	CDS
 			locus_tag	SHDOJQCQ_CDS_0052
 			product	hypothetical protein
 			transl_table	11
-41837	41531	gene
+41837	41532	gene
 			locus_tag	SHDOJQCQ_CDS_0053
-41837	41531	CDS
+41837	41532	CDS
 			locus_tag	SHDOJQCQ_CDS_0053
 			product	AAA ATPase
 			transl_table	11
-42127	41947	gene
+42127	41948	gene
 			locus_tag	SHDOJQCQ_CDS_0054
-42127	41947	CDS
+42127	41948	CDS
 			locus_tag	SHDOJQCQ_CDS_0054
 			product	hypothetical protein
 			transl_table	11
-42311	42116	gene
+42311	42117	gene
 			locus_tag	SHDOJQCQ_CDS_0055
-42311	42116	CDS
+42311	42117	CDS
 			locus_tag	SHDOJQCQ_CDS_0055
 			product	hypothetical protein
 			transl_table	11
@@ -335,27 +335,27 @@
 			locus_tag	SHDOJQCQ_CDS_0056
 			product	hypothetical protein
 			transl_table	11
-44413	43351	gene
+44413	43352	gene
 			locus_tag	SHDOJQCQ_CDS_0057
-44413	43351	CDS
+44413	43352	CDS
 			locus_tag	SHDOJQCQ_CDS_0057
 			product	ParA-like partition
 			transl_table	11
-45002	44489	gene
+45002	44490	gene
 			locus_tag	SHDOJQCQ_CDS_0058
-45002	44489	CDS
+45002	44490	CDS
 			locus_tag	SHDOJQCQ_CDS_0058
 			product	hypothetical protein
 			transl_table	11
-45476	45053	gene
+45476	45054	gene
 			locus_tag	SHDOJQCQ_CDS_0059
-45476	45053	CDS
+45476	45054	CDS
 			locus_tag	SHDOJQCQ_CDS_0059
 			product	hypothetical protein
 			transl_table	11
-46223	45482	gene
+46223	45483	gene
 			locus_tag	SHDOJQCQ_CDS_0060
-46223	45482	CDS
+46223	45483	CDS
 			locus_tag	SHDOJQCQ_CDS_0060
 			product	Gp37
 			transl_table	11
@@ -371,9 +371,9 @@
 			locus_tag	SHDOJQCQ_CDS_0062
 			product	telomere resolvase
 			transl_table	11
-48066	47604	gene
+48066	47605	gene
 			locus_tag	SHDOJQCQ_CDS_0063
-48066	47604	CDS
+48066	47605	CDS
 			locus_tag	SHDOJQCQ_CDS_0063
 			product	RusA
 			transl_table	11
@@ -383,9 +383,9 @@
 			locus_tag	SHDOJQCQ_CDS_0064
 			product	RNR
 			transl_table	11
-52557	52050	gene
+52557	52051	gene
 			locus_tag	SHDOJQCQ_CDS_0065
-52557	52050	CDS
+52557	52051	CDS
 			locus_tag	SHDOJQCQ_CDS_0065
 			product	hypothetical protein
 			transl_table	11
@@ -407,21 +407,21 @@
 			locus_tag	SHDOJQCQ_CDS_0068
 			product	hypothetical protein
 			transl_table	11
-55283	54335	gene
+55283	54336	gene
 			locus_tag	SHDOJQCQ_CDS_0069
-55283	54335	CDS
+55283	54336	CDS
 			locus_tag	SHDOJQCQ_CDS_0069
 			product	DNA methyltransferase
 			transl_table	11
-56770	55360	gene
+56770	55361	gene
 			locus_tag	SHDOJQCQ_CDS_0070
-56770	55360	CDS
+56770	55361	CDS
 			locus_tag	SHDOJQCQ_CDS_0070
 			product	DnaB helicase
 			transl_table	11
-57173	56801	gene
+57173	56802	gene
 			locus_tag	SHDOJQCQ_CDS_0071
-57173	56801	CDS
+57173	56802	CDS
 			locus_tag	SHDOJQCQ_CDS_0071
 			product	hypothetical protein
 			transl_table	11
@@ -443,45 +443,45 @@
 			locus_tag	SHDOJQCQ_CDS_0074
 			product	DNApol III beta subunit
 			transl_table	11
-62137	61219	gene
+62137	61220	gene
 			locus_tag	SHDOJQCQ_CDS_0075
-62137	61219	CDS
+62137	61220	CDS
 			locus_tag	SHDOJQCQ_CDS_0075
 			product	tail fiber protein
 			transl_table	11
-62542	62140	gene
+62542	62141	gene
 			locus_tag	SHDOJQCQ_CDS_0076
-62542	62140	CDS
+62542	62141	CDS
 			locus_tag	SHDOJQCQ_CDS_0076
 			product	hypothetical protein
 			transl_table	11
-62910	62508	gene
+62910	62509	gene
 			locus_tag	SHDOJQCQ_CDS_0077
-62910	62508	CDS
+62910	62509	CDS
 			locus_tag	SHDOJQCQ_CDS_0077
 			product	hypothetical protein
 			transl_table	11
-63319	62935	gene
+63319	62936	gene
 			locus_tag	SHDOJQCQ_CDS_0078
-63319	62935	CDS
+63319	62936	CDS
 			locus_tag	SHDOJQCQ_CDS_0078
 			product	hypothetical protein
 			transl_table	11
-63825	63324	gene
+63825	63325	gene
 			locus_tag	SHDOJQCQ_CDS_0079
-63825	63324	CDS
+63825	63325	CDS
 			locus_tag	SHDOJQCQ_CDS_0079
 			product	tRNA methyltransferase
 			transl_table	11
-64636	63895	gene
+64636	63896	gene
 			locus_tag	SHDOJQCQ_CDS_0080
-64636	63895	CDS
+64636	63896	CDS
 			locus_tag	SHDOJQCQ_CDS_0080
 			product	ssDNA binding protein
 			transl_table	11
-65142	64668	gene
+65142	64669	gene
 			locus_tag	SHDOJQCQ_CDS_0081
-65142	64668	CDS
+65142	64669	CDS
 			locus_tag	SHDOJQCQ_CDS_0081
 			product	hypothetical protein
 			transl_table	11
@@ -491,21 +491,21 @@
 			locus_tag	SHDOJQCQ_CDS_0082
 			product	hypothetical protein
 			transl_table	11
-68194	66331	gene
+68194	66332	gene
 			locus_tag	SHDOJQCQ_CDS_0083
-68194	66331	CDS
+68194	66332	CDS
 			locus_tag	SHDOJQCQ_CDS_0083
 			product	DNApol A
 			transl_table	11
-68601	68346	gene
+68601	68347	gene
 			locus_tag	SHDOJQCQ_CDS_0084
-68601	68346	CDS
+68601	68347	CDS
 			locus_tag	SHDOJQCQ_CDS_0084
 			product	hypothetical protein
 			transl_table	11
-68921	68597	gene
+68921	68598	gene
 			locus_tag	SHDOJQCQ_CDS_0085
-68921	68597	CDS
+68921	68598	CDS
 			locus_tag	SHDOJQCQ_CDS_0085
 			product	hypothetical protein
 			transl_table	11
@@ -545,15 +545,15 @@
 			locus_tag	SHDOJQCQ_CDS_0091
 			product	baseplate hub
 			transl_table	11
-72267	71865	gene
+72267	71866	gene
 			locus_tag	SHDOJQCQ_CDS_0092
-72267	71865	CDS
+72267	71866	CDS
 			locus_tag	SHDOJQCQ_CDS_0092
 			product	hypothetical protein
 			transl_table	11
-73515	72681	gene
+73515	72682	gene
 			locus_tag	SHDOJQCQ_CDS_0093
-73515	72681	CDS
+73515	72682	CDS
 			locus_tag	SHDOJQCQ_CDS_0093
 			product	transcriptional regulator
 			transl_table	11
@@ -603,45 +603,45 @@
 			locus_tag	SHDOJQCQ_CDS_0101
 			product	tail tape measure
 			transl_table	11
-91996	91543	gene
+91996	91544	gene
 			locus_tag	SHDOJQCQ_CDS_0102
-91996	91543	CDS
+91996	91544	CDS
 			locus_tag	SHDOJQCQ_CDS_0102
 			product	hypothetical protein
 			transl_table	11
-92515	92173	gene
+92515	92174	gene
 			locus_tag	SHDOJQCQ_CDS_0103
-92515	92173	CDS
+92515	92174	CDS
 			locus_tag	SHDOJQCQ_CDS_0103
 			product	hypothetical protein
 			transl_table	11
-93734	92711	gene
+93734	92712	gene
 			locus_tag	SHDOJQCQ_CDS_0104
-93734	92711	CDS
+93734	92712	CDS
 			locus_tag	SHDOJQCQ_CDS_0104
 			product	hypothetical protein
 			transl_table	11
-94904	93809	gene
+94904	93810	gene
 			locus_tag	SHDOJQCQ_CDS_0105
-94904	93809	CDS
+94904	93810	CDS
 			locus_tag	SHDOJQCQ_CDS_0105
 			product	endonuclease
 			transl_table	11
-95529	95028	gene
+95529	95029	gene
 			locus_tag	SHDOJQCQ_CDS_0106
-95529	95028	CDS
+95529	95029	CDS
 			locus_tag	SHDOJQCQ_CDS_0106
 			product	hypothetical protein
 			transl_table	11
-96883	95614	gene
+96883	95615	gene
 			locus_tag	SHDOJQCQ_CDS_0107
-96883	95614	CDS
+96883	95615	CDS
 			locus_tag	SHDOJQCQ_CDS_0107
 			product	hypothetical protein
 			transl_table	11
-97863	97029	gene
+97863	97030	gene
 			locus_tag	SHDOJQCQ_CDS_0108
-97863	97029	CDS
+97863	97030	CDS
 			locus_tag	SHDOJQCQ_CDS_0108
 			product	tail protein
 			transl_table	11
@@ -669,13 +669,13 @@
 			locus_tag	SHDOJQCQ_CDS_0112
 			product	hypothetical protein
 			transl_table	11
-102825	101889	gene
+102825	101890	gene
 			locus_tag	SHDOJQCQ_CDS_0113
-102825	101889	CDS
+102825	101890	CDS
 			locus_tag	SHDOJQCQ_CDS_0113
 			product	DNA methyltransferase
 			transl_table	11
-104748	102998	gene
+104748	102999	gene
 			locus_tag	SHDOJQCQ_CDS_0114
 104039	102999	CDS
 			locus_tag	SHDOJQCQ_CDS_0114
@@ -691,21 +691,21 @@
 			locus_tag	SHDOJQCQ_CDS_0116
 			product	hypothetical protein
 			transl_table	11
-106145	105197	gene
+106145	105198	gene
 			locus_tag	SHDOJQCQ_CDS_0117
-106145	105197	CDS
+106145	105198	CDS
 			locus_tag	SHDOJQCQ_CDS_0117
 			product	InsQ/TnpB transposase
 			transl_table	11
-108507	108012	gene
+108507	108013	gene
 			locus_tag	SHDOJQCQ_CDS_0118
-108507	108012	CDS
+108507	108013	CDS
 			locus_tag	SHDOJQCQ_CDS_0118
 			product	hypothetical protein
 			transl_table	11
-109167	108633	gene
+109167	108634	gene
 			locus_tag	SHDOJQCQ_CDS_0119
-109167	108633	CDS
+109167	108634	CDS
 			locus_tag	SHDOJQCQ_CDS_0119
 			product	hypothetical protein
 			transl_table	11
@@ -839,15 +839,15 @@
 			locus_tag	SHDOJQCQ_CDS_0141
 			product	ABC transporter 
 			transl_table	11
-128320	127810	gene
+128320	127811	gene
 			locus_tag	SHDOJQCQ_CDS_0142
-128320	127810	CDS
+128320	127811	CDS
 			locus_tag	SHDOJQCQ_CDS_0142
 			product	hypothetical protein
 			transl_table	11
-129181	128536	gene
+129181	128537	gene
 			locus_tag	SHDOJQCQ_CDS_0143
-129181	128536	CDS
+129181	128537	CDS
 			locus_tag	SHDOJQCQ_CDS_0143
 			product	endolysin
 			transl_table	11
@@ -909,21 +909,21 @@
 			locus_tag	SHDOJQCQ_CDS_0153
 			product	Gao Iet protease
 			transl_table	11
-139735	138406	gene
+139735	138407	gene
 			locus_tag	SHDOJQCQ_CDS_0154
-139735	138406	CDS
+139735	138407	CDS
 			locus_tag	SHDOJQCQ_CDS_0154
 			product	hypothetical protein
 			transl_table	11
-140369	140192	gene
+140369	140193	gene
 			locus_tag	SHDOJQCQ_CDS_0155
-140369	140192	CDS
+140369	140193	CDS
 			locus_tag	SHDOJQCQ_CDS_0155
 			product	hypothetical protein
 			transl_table	11
-140635	140380	gene
+140635	140381	gene
 			locus_tag	SHDOJQCQ_CDS_0156
-140635	140380	CDS
+140635	140381	CDS
 			locus_tag	SHDOJQCQ_CDS_0156
 			product	hypothetical protein
 			transl_table	11
@@ -981,9 +981,9 @@
 			locus_tag	SHDOJQCQ_CDS_0165
 			product	hypothetical protein
 			transl_table	11
-148011	149199	gene
+148011	149201	gene
 			locus_tag	SHDOJQCQ_CDS_0166
-148011	149199	CDS
+148011	149201	CDS
 			locus_tag	SHDOJQCQ_CDS_0166
 			product	TerL
 			transl_table	11
