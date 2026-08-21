@@ -1,6 +1,19 @@
 # T.NPSG-analysis
 Code and data used to perform analysis and generate figures in "A globally distributed phage-plasmid infects marine N2-fixing cyanobacterium Trichodesmium". 
 
+## Package versions
+- [biopython](https://biopython.org/) v1.85
+- [ete3](http://etetoolkit.org) v3.1.3
+- [matplotlib](https://matplotlib.org) v3.10.1
+- [nerCDF4](https://unidata.github.io/netcdf4-python/) v1.7.4
+- [numpy](https://numpy.org) v1.26.4
+- [pandas](https://pandas.pydata.org) v 2.3.1
+- [pyCirclize](https://github.com/moshi4/pyCirclize) v1.9.1
+- [pygenomeViz](https://github.com/moshi4/pygenomeviz) v1.6.1
+- [pypalettes](https://github.com/JosephBARBIERDARNAL/pypalettes/) v0.1.5
+- [scipy](https://scipy.org/) v1.13.1
+- [seaborn](https://seaborn.pydata.org/) v0.13.2
+
 ## Code files
 - `fig_1_genome_vizualization.ipynb`: Code to process phage-plasmid genome annotations, create files needed for NCBI GenBank deposit, and generate Figure 1a and Supplementary Figures 1 and 2.
 - `fig_1_orthogroup_vizualization.ipynb`: Code to process OrthoFinder output and generate Figure 1b.

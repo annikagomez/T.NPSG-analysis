@@ -1,3 +1,4 @@
+#DESeq2 version 1.46.0
 library(DESeq2)
 
 ##Set WD to source file location
