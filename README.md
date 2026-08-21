@@ -14,6 +14,12 @@ Code and data used to perform analysis and generate figures in "A globally distr
 - [scipy](https://scipy.org/) v1.13.1
 - [seaborn](https://seaborn.pydata.org/) v0.13.2
 
+## Installation
+Installation instructions and requirements for packages used can be found on the package homepages linked above
+
+## Hardware requirements
+The analysis performed in these notebooks and scripts can be run on a standard desktop computer. 
+
 ## Code files
 - `fig_1_genome_vizualization.ipynb`: Code to process phage-plasmid genome annotations, create files needed for NCBI GenBank deposit, and generate Figure 1a and Supplementary Figures 1 and 2.
 - `fig_1_orthogroup_vizualization.ipynb`: Code to process OrthoFinder output and generate Figure 1b.
@@ -38,6 +44,7 @@ Code and data used to perform analysis and generate figures in "A globally distr
   - `tara_metadata_*.csv`: Metadata for stations, samples, and ENA from Tara Oceans samples
 - metaT_files/
   - `*.tab`: Outputs from BWA mapping metatranscriptome reads to hybrid slick assembly + T.NPSG.2 genome
+  - `all_tpm.csv`: Calculated TPM off all contigs in the hybrid slick assembly + the T.NPSG.2 genome
   - `all_sig_tery.csv`: All Trichodesmium erythraeum genes which were differentially expressed between the slick and colonies based on DESeq2 analysis with eggnog-mapper annotations; Source data for Supplementary Figure 10
   - `bacterial_phylum_relative_expression.csv`: Sum of TPMs for transcripts assigned to major bacterial phyla by GTDB
   - `cyanobacterial_orders_relative_expression.csv`: Sum of TPMs for transcripts assigned to major cyanobacterial orders by GTDB; source data for Supplementary Figure 9
@@ -45,6 +52,7 @@ Code and data used to perform analysis and generate figures in "A globally distr
   - `hybrid_assembly_prots.bed`: Location of all protein coding region within the hybrid slick assembly
   - `phage_tpm.csv`: TPM by sample of each T.NPSG.2 CDS
   - `slick_metadata.csv`: Maps sample number to slick or colony for metaT samples
+  - `spac_summary.csv`: Per-gene TPM of T.NPSG.2 in the SPAC samples from Spungin et al 2016. 
   - `t_e_deseq_resdf.csv`: DESeq2 output
   - `tery_raw_gene_counts.csv`: Raw number of reads mapped per coding region for Trichodesmium erythraeum contigs; input for DESeq analysis
   - `tery_tpm.csv`: TPM by sample of each Trichodesmium erythraeum CDS
